@@ -1,0 +1,9 @@
+[submodule "bot"]
+	path = bot
+	url = https://github.com/fowlerro/Lunaris-bot
+[submodule "website"]
+	path = website
+	url = https://github.com/fowlerro/Lunaris-website
+[submodule "types"]
+	path = types
+	url = https://github.com/fowlerro/Lunaris-types
